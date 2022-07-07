@@ -6,6 +6,7 @@ Resources list:
 - Python OOPs : https://www.youtube.com/watch?v=Ej_02ICOIgs
 - Python APIs : https://www.youtube.com/watch?v=0sOvCWFmrtA
 - Python DSA : https://www.youtube.com/watch?v=pkYVOmU3MgA
+- Algorithms and Data Structure course _using_ Python : https://youtu.be/8hly31xKli0
 - Python Automation : https://www.youtube.com/watch?v=PXMJ6FS7llk
 - Python projects (FCC) : https://www.youtube.com/watch?v=8ext9G7xspg
 - Python Django : https://youtu.be/F5mRW0jo-U4
